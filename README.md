@@ -4,7 +4,7 @@
 
 ### 🚀 A Full Stack Developer | 🛠️ Builder | 💻 Tech Enthusiast
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0cGttOXdycm5lMnU5Ym82OGJ2dTM3ZHp4OGkzMTg4MmE2bzVlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="200" height="400" style="object-fit:cover; border-radius:10px" alt="coding-gif"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc0cGttOXdycm5lMnU5Ym82OGJ2dTM3ZHp4OGkzMTg4MmE2bzVlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300" height="400" style="object-fit:cover; border-radius:10px" alt="coding-gif"/>
 
 <br/>
 
