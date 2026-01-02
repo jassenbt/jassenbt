@@ -9,8 +9,7 @@
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://your-website.com)](https://your-website.com)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://[your-website.com](https://yassinedev.io/))]([https://your-website.com](https://yassinedev.io/))
 
 </div>
 
