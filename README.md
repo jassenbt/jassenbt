@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://[your-website.com](https://yassinedev.io/))]([https://your-website.com](https://yassinedev.io/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassine-boutaleb)](https://www.linkedin.com/in/yassine-boutaleb)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yassinedev.io)](https://yassinedev.io)
 
 </div>
 
