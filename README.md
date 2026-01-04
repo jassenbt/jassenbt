@@ -29,8 +29,8 @@ Solving real problems with technology. Yours and mine.
 Coding obsessively. Building with joy.
 ---
 ### Careers
-TOPCHEF Software Engineer (2024.09 - Present)
-Musinsa / StyleShare Software Engineer (2024.02 - 2024.09)
+TOPCHEF Software Engineer (2024.09 - Present).
+DigitalProgres Software Engineer (2024.02 - 2024.09)
 ---
 ### 🛠️ Languages and Tools
 
