@@ -60,19 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jassenbt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassenbt&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
