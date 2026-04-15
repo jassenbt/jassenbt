@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
--  I’m currently working on **ERP PROJECT **
+-  I’m currently working on **FINANCIAL PROJECTS **
 -  I’m currently learning **AI** AND **CLOUD COMPUTING**
 -  I’m looking to collaborate on **Other projects**
 -  Ask me about **React, Java, Spring Boot**
